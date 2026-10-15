@@ -1,3 +1,3 @@
 # niki
 cloning
-commit changes
+commit changes to my program
